@@ -1,0 +1,5 @@
+{
+    "FAILED_LOGIN_THRESHOLD": 10,
+    "LOG_FILE": "sample.log",
+    "OUTPUT_CSV": "log_analysis_results.csv"
+}
